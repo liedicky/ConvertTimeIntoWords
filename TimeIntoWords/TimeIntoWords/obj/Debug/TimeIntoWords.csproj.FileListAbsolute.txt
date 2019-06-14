@@ -1,0 +1,7 @@
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\bin\Debug\TimeIntoWords.exe.config
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\bin\Debug\TimeIntoWords.exe
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\bin\Debug\TimeIntoWords.pdb
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\obj\Debug\TimeIntoWords.csprojAssemblyReference.cache
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\obj\Debug\TimeIntoWords.csproj.CoreCompileInputs.cache
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\obj\Debug\TimeIntoWords.exe
+D:\Documents\Training\Visual Studio\TimeIntoWords\TimeIntoWords\obj\Debug\TimeIntoWords.pdb
